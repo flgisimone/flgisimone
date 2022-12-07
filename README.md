@@ -16,12 +16,7 @@
 <h2>Sto imparando</h2>
 <p align="left">
   <img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="150px">
-</p>
-
-<h2>Contattami!</h2>
-<a href="https://www.linkedin.com/in/giuliosimonefloresta/" style=“margin-right:10px"” margin-right="10px"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30px"></a>
-<a href="mailto:florestagiuliosimone@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" width="30px"></a>
-<p><a href="mailto:florestagiuliosimone@gmail.com">📫 florestagiuliosimone@gmail.com</a></p>                                                                                                                               
+</p>                                                                                                                 
 
 <!---
 flgisimone/flgisimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
