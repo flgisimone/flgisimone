@@ -1,6 +1,6 @@
 <p align="center"><img src="https://media.tenor.com/0jWydtIVg6wAAAAC/independence-day-jeff-goldblum.gif"></p>
 
-<h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo</h1>
+<h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo!</h1>
 
 <h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 JR. e (ex) Digital Marketing Manager.</h3>
 <h3 align="center">Stack tecnologico con cui mi sto formando</h3>
