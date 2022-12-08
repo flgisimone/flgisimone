@@ -1,5 +1,4 @@
 <p align="center"><img src="https://media.tenor.com/0jWydtIVg6wAAAAC/independence-day-jeff-goldblum.gif"></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=flgisimone&label=Profile%20views&color=0e75b6&style=flat" alt="flgisimone" /> </p>
 
 <h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo!</h1>
 
