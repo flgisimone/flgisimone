@@ -7,7 +7,7 @@
 <p align="center"><img src="https://edgemony.com/wp-content/uploads/2022/07/loghicoding.png" width="550px"></h4>
 
 <h2>Github States</h2>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 <h2>Main Skill</h2>
 <p align="left">
