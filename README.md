@@ -6,9 +6,6 @@
 <h3 align="center">Stack tecnologico con cui mi sto formando</h3>
 <p align="center"><img src="https://edgemony.com/wp-content/uploads/2022/07/loghicoding.png" width="550px"></h4>
 
-<h2>Github States</h2>
-
-
 <h2>Main Skill</h2>
 <p align="left">
   <img src="https://edgemony.com/wp-content/uploads/2020/09/1200px-HTML5_logo_and_wordmark.svg-300x300.png" width="75px">
