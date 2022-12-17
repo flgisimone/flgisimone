@@ -1,8 +1,15 @@
 <p align="center"><img src="https://media.tenor.com/0jWydtIVg6wAAAAC/independence-day-jeff-goldblum.gif"></p>
 
 <h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo!</h1>
-
 <h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 JR. e (ex) Digital Marketing Manager.</h3>
+
+Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵️
+
+🔜 Da poco ho iniziato a formarmi come 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, prendendo parte ad un coding bootcamp, utilizzando 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 come framework principale insieme ad 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦 e 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁.
+
+💼 Ho lavorato nel settore del 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 inizialmente come 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 per poi ricoprire il ruolo di 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 grazie alle esperienze lavorative maturate nel corso del tempo.
+
+Puoi trovarmi anche su <a href="https://github.com/flgisimone/">👨‍💻 Github</a>
 
 <b><h3>Coding</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)</span>
