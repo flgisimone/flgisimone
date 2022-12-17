@@ -9,7 +9,7 @@ Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵�
 
 💼 Ho lavorato nel settore del 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 inizialmente come 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 per poi ricoprire il ruolo di 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 grazie alle esperienze lavorative maturate nel corso del tempo.
 
-Puoi trovarmi anche su <a href="https://github.com/flgisimone/">👨‍💻 Github</a>
+Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codepen</a>
 
 <b><h3>Coding</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)</span>
