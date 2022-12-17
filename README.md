@@ -12,7 +12,7 @@
 <b><h3>Learning</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)</span>
 
-<b><h3>Tools and Technologies</h3></b>
+<b><h3>Tools e Tecnologie</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)</span>
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
