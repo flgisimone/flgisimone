@@ -27,6 +27,11 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <b><h3>UI/UX</h3></b>
 <span>![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)</span>
 <span>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</span>
+
+<b><h3>Stats</h3></b>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&langs_count=10&count_private=true&show_icons=true&theme=radical"/></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=radical"/></span>
+
                                                                                                            
 
 <!---
