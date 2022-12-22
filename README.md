@@ -12,12 +12,14 @@ Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵�
 Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codepen</a>
 
 <b><h3>Coding</h3></b>
-<span>![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)</span>
-
-<b><h3>Learning</h3></b>
+<span>![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)</span>
+<span>![image](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
+
+<!--<b><h3>Learning</h3></b>-->
+
 
 <b><h3>Tools e Tecnologie</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
