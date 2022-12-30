@@ -5,7 +5,7 @@
 
 Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵️
 
-🔜 Da poco ho iniziato a formarmi come 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, prendendo parte ad un coding bootcamp, utilizzando 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 come framework principale insieme ad 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦 e 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁.
+🔜 Da poco ho iniziato a formarmi come 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, prendendo parte ad un coding bootcamp, utilizzando 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 come libreria principale insieme ad 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦 e 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁.
 
 💼 Ho lavorato nel settore del 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 inizialmente come 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 per poi ricoprire il ruolo di 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 grazie alle esperienze lavorative maturate nel corso del tempo.
 
