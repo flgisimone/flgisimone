@@ -35,6 +35,7 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 
 <b><h3>Progetti recenti</h3></b>
 <p>🔗 https://florestagiuliosimone.netlify.app/</p>
+<p>🔗 https://cocktail-bar-by-flgisimone.netlify.app/</p>
 <p>🔗 https://flgisimone.github.io/Main-TV-Series-Primeflix-Amazon-Prime-Clone/</p>
 <p>🔗 https://github.com/flgisimone/To-DO-List</p>
 <p>🔗 https://flgisimone.github.io/Weather-App/</p>
