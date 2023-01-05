@@ -34,6 +34,7 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&langs_count=10&count_private=true&show_icons=true&theme=radical"/></span>
 
 <b><h3>Progetti recenti</h3></b>
+<p>🔗 https://florestagiuliosimone.netlify.app/</p>
 <p>🔗 https://flgisimone.github.io/Main-TV-Series-Primeflix-Amazon-Prime-Clone/</p>
 <p>🔗 https://github.com/flgisimone/To-DO-List</p>
 <p>🔗 https://flgisimone.github.io/Weather-App/</p>
