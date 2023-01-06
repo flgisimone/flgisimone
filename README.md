@@ -32,7 +32,7 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 
 <b><h3>Stats</h3></b>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&langs_count=10&show_icons=true&theme=great-gatsby"/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=gruvbox"/>
+<span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=great-gatsby"/>
 
 <b><h3>Progetti recenti</h3></b>
 <p>🔗 https://florestagiuliosimone.netlify.app/</p>
