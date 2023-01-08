@@ -34,7 +34,7 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=great-gatsby"/>
 
 <b><h3>Progetti recenti</h3></b>
-<p>🔗 https://giuliosimonefloresta.it</p>
+<p>🔗 https://florestagiuliosimone.it</p>
 <p>🔗 https://cocktail-bar-by-flgisimone.netlify.app/</p>
 <p>🔗 https://flgisimone.github.io/Main-TV-Series-Primeflix-Amazon-Prime-Clone/</p>
 <p>🔗 https://github.com/flgisimone/To-DO-List</p>
