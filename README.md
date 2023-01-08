@@ -12,14 +12,13 @@ Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵�
 Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codepen</a>
 
 <b><h3>Coding</h3></b>
-<span>![image](https://user-images.githubusercontent.com/103486794/206673098-dc58ba41-6e7c-4069-9279-6b9ae2c2730b.png)</span>
-<span>![image](https://user-images.githubusercontent.com/103486794/206673179-4829a253-777f-40a1-b95d-84ce65dc0c23.png)</span>
-<span>![image](https://user-images.githubusercontent.com/103486794/206673152-49c4c6c5-2f24-48de-a92b-81ac8fe8db06.png)</span>
-<span>![image](https://user-images.githubusercontent.com/103486794/206673277-33f94f31-1d20-4205-a7fe-12993574a377.png)</span>
-<span>![image](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 50px;"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width: 50px;"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 50px;"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 50px;"></span>
+<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="width: 50px;"></span>
 
 <!--<b><h3>Learning</h3></b>-->
-
 
 <b><h3>Tools e Tecnologie</h3></b>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
@@ -35,14 +34,12 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=great-gatsby"/>
 
 <b><h3>Progetti recenti</h3></b>
-<p>🔗 https://florestagiuliosimone.netlify.app/</p>
+<p>🔗 https://giuliosimonefloresta.it</p>
 <p>🔗 https://cocktail-bar-by-flgisimone.netlify.app/</p>
 <p>🔗 https://flgisimone.github.io/Main-TV-Series-Primeflix-Amazon-Prime-Clone/</p>
 <p>🔗 https://github.com/flgisimone/To-DO-List</p>
 <p>🔗 https://flgisimone.github.io/Weather-App/</p>
-
                                                                                                            
-
 <!---
 flgisimone/flgisimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
