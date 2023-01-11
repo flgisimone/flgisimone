@@ -30,8 +30,8 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</span>
 
 <b><h3>Stats</h3></b>
-<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&langs_count=10&show_icons=true&theme=great-gatsby"/></span>
-<span><img src="https://github-readme-stats.vercel.app/api?username=flgisimone&show_icons=true&theme=great-gatsby"/>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby&line_height=40"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby&line_height=34"/> </a>
 
 <b><h3>Progetti recenti</h3></b>
 <p>🔗 https://florestagiuliosimone.it</p>
