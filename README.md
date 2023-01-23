@@ -12,11 +12,11 @@ Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵�
 Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codepen</a>
 
 <b><h3>Coding</h3></b>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style="width: 50px;"></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style="width: 50px;"></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="width: 50px;"></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="width: 50px;"></span>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style="width: 50px;"></span>
+<span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
+<span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
+<span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
+<span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
+<span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
 
 <!--<b><h3>Learning</h3></b>-->
 
