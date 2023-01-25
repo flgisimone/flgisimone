@@ -30,10 +30,9 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</span>
 
 <b><h3>Stats</h3></b>
-<p <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&layout=compact&theme=great-gatsby"/> </p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&layout=compact&theme=great-gatsby"/> </p>
 <p> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby"/> </p>
-<br><br>
-
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=4"/> </p>
 
 <b><h3>Progetti recenti</h3></b>
 
