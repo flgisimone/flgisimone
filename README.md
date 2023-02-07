@@ -25,10 +25,13 @@ Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codep
 <span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)</span>
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
-
-<b><h3>UI/UX</h3></b>
 <span>![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)</span>
 <span>![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)</span>
+
+<b><h3>Sto studiando</h3></b>
+
+<span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
+<span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
 
 <b><h3>Stats</h3></b>
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&layout=compact&theme=great-gatsby"/> </p>
