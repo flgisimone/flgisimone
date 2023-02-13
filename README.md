@@ -5,11 +5,7 @@
 
 Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵️
 
-🔜 Da poco ho iniziato a formarmi come 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, prendendo parte ad un coding bootcamp, utilizzando 𝗥𝗲𝗮𝗰𝘁 𝗝𝗦 come libreria principale insieme ad 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦 e 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁.
-
-💼 Ho lavorato nel settore del 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 inizialmente come 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 per poi ricoprire il ruolo di 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗠𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗿 grazie alle esperienze lavorative maturate nel corso del tempo.
-
-Puoi trovarmi anche su <a href="https://codepen.io/flgisimone">👨‍💻 Codepen</a>
+Sono un 𝗝𝗥. 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. Lo stack tecnologico che utilizzo si basa su 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 con 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 e 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗛𝗧𝗠𝗟 𝗲 𝗖𝗦𝗦, in particolare 𝗦𝗔𝗦𝗦. Interessato alle tematiche in ambito UX/UI, ho lavorato nel settore del Digital Marketing come Social Media Manager e Digital Marketing Specialist.
 
 <b><h3>Coding</h3></b>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
