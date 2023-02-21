@@ -1,11 +1,15 @@
 <p align="center"><img src="https://media.tenor.com/0jWydtIVg6wAAAAC/independence-day-jeff-goldblum.gif"></p>
 
 <h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo!</h1>
-<h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 JR. e (ex) Digital Marketing Manager.</h3>
+<h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
 
-Se stai leggendo immagino che vorrai conoscere la mia storia professionale ⤵️
+Appassionato di tecnologia e sempre alla ricerca di nuove sfide che mi permettano di migliorare le mie abilità e competenze tecniche. 
 
-Sono un 𝗝𝗥. 𝗙𝗿𝗼𝗻𝘁-𝗘𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿. Lo stack tecnologico che utilizzo si basa su 𝗝𝗮𝘃𝗮𝘀𝗰𝗿𝗶𝗽𝘁 con 𝗥𝗲𝗮𝗰𝘁.𝗷𝘀 e 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗛𝗧𝗠𝗟 𝗲 𝗖𝗦𝗦, in particolare 𝗦𝗔𝗦𝗦. Interessato alle tematiche in ambito UX/UI, ho lavorato nel settore del Digital Marketing come Social Media Manager e Digital Marketing Specialist.
+Lo stack tecnologico che utilizzo si basa principalmente su SASS e React, approfondendo le mie conoscenze in Next, permettendomi così di realizzare progetti più complessi e innovativi. Il mio approccio al lavoro è incentrato sull'idea di creare siti web che siano funzionali e facilmente navigabili, dando particolare attenzione alle tematiche di UX/UI.
+
+Mi piace condividere idee e conoscenze con altri sviluppatori, designer e project manager, al fine di realizzare progetti di successo che rispondano alle esigenze dei clienti e degli utenti finali.
+
+Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche che mi permettano di affrontare sfide sempre più impegnative con maggiore consapevolezza e competenza. 
 
 <b><h3>Coding</h3></b>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
