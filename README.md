@@ -18,6 +18,7 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
+<span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 
 <!--<b><h3>Learning</h3></b>-->
 
@@ -25,26 +26,29 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
 <span>![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)</span>
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
+<span>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</span>
 
 <b><h3>Sto studiando</h3></b>
 
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
+<span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
+<span>![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</span>
 
 <b><h3>Stats</h3></b>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&layout=compact&theme=great-gatsby"/> </p>
-<p> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby"/> </p>
+<span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby"/> </span>
+<span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby"/> </span>
 <p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=4"/> </p>
 
 <b><h3>Progetti recenti</h3></b>
 
-<p>🔗 https://florestagiuliosimone.it</p> 
-<p>🔗 https://gus-github-user-search.netlify.app/</p>
-<p>🔗 https://memories-social-app.vercel.app/</p>
-<p>🔗 https://flgisimone.github.io/Main-TV-Series-Primeflix-Amazon-Prime-Clone/</p>
-<p>🔗 https://github.com/flgisimone/To-DO-List</p>
-<p>🔗 https://flgisimone.github.io/Weather-App/</p>
-                                                                                                           
+<span><img src="https://i.postimg.cc/NGCT7MkF/6.png"/></span>
+<span><img src="https://i.postimg.cc/90k7W8QZ/5.png"/></span>
+<span><img src="https://i.postimg.cc/LXRk7bJs/4.png"/></span>
+<span><img src="https://i.postimg.cc/qqJtXfz8/3.png"/></span>
+<span><img src="https://i.postimg.cc/Hx4cyWsY/2.png"/></span>
+<span><img src="https://i.postimg.cc/x86X6szB/1.png"/></span>
+                                                                                            
 <!---
 flgisimone/flgisimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
