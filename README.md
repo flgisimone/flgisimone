@@ -37,7 +37,7 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <b><h3>Stats</h3></b>
 <span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby"/> </span>
 <span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby"/> </span>
-<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=4"/> </p>
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=10"/> </p>
 
 <b><h3>Progetti recenti</h3></b>
 
