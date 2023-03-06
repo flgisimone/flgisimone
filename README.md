@@ -27,17 +27,16 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
 <span>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</span>
 
-<b><h3>Sto studiando</h3></b>
+<b><h3>Interessato a <h3></b>
 
-<span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
-<span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
+<span>![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)</span>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
 <span>![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</span>
 
 <b><h3>Stats</h3></b>
-<span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby"/> </span>
-<span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby"/> </span>
-<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=10"/> </p>
+<span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby&line_height=20"/> </span>
+<span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby&line_height=33"/> </span>
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=28"/> </p>
 
 <b><h3>Progetti recenti</h3></b>
 
