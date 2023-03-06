@@ -26,6 +26,8 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)</span>
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
 <span>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</span>
+<span>![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</span>
+<span>![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)</span>
 
 <b><h3>Interessato a <h3></b>
 
