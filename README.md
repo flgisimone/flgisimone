@@ -18,23 +18,22 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
-<span>![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</span>
 
 <!--<b><h3>Learning</h3></b>-->
 
 <b><h3>Tools e Tecnologie</h3></b>
-<span>![image](https://user-images.githubusercontent.com/103486794/206672773-2609e556-69a8-4278-9a17-99129f899b99.png)</span>
-<span>![image](https://user-images.githubusercontent.com/103486794/206672669-e4bbddea-0ac1-4a54-938d-bc2b554ae526.png)</span>
+<span>![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</span>
+<span>![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)</span>
+<span>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</span>
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
 <span>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</span>
-<span>![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)</span>
-<span>![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)</span>
+<span>![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</span>
 
 <b><h3>Interessato a <h3></b>
 
-<span>![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)</span>
+<span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
 <span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
-<span>![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)</span>
+<span>![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</span>
 
 <b><h3>Stats</h3></b>
 <span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby&line_height=20"/> </span>
