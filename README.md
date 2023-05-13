@@ -11,17 +11,20 @@ Mi piace condividere idee e conoscenze con altri sviluppatori, designer e projec
 
 Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche che mi permettano di affrontare sfide sempre più impegnative con maggiore consapevolezza e competenza. 
 
-<b><h3>Coding</h3></b>
+<b><h3>Scrivendo...</h3></b>
 <span>![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)</span>
 <span>![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)</span>
 <span>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
 <span>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 <span>![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)</span>
-<span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
 <span>![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)</span>
 <span>![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)</span>
 
-<!--<b><h3>Learning</h3></b>-->
+<b><h3>Studiando... <h3></b>
+<span>![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)</span>
+<span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
+<span>![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)</span>
+<span>![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
 
 <b><h3>Tools e Tecnologie</h3></b>
 <span>![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)</span>
@@ -30,25 +33,12 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)</span>
 <span>![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)</span>
 <span>![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)</span>
-
-<b><h3>Interessato a <h3></b>
-<span>![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)</span>
-
-
+<span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
+  
 <b><h3>Stats</h3></b>
 <span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby&line_height=20"/> </span>
 <span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby&line_height=33"/> </span>
-<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=28"/> </p>
-
-<b><h3>Progetti recenti</h3></b>
-
-<span><img src="https://i.postimg.cc/NGCT7MkF/6.png"/></span>
-<span><img src="https://i.postimg.cc/90k7W8QZ/5.png"/></span>
-<span><img src="https://i.postimg.cc/LXRk7bJs/4.png"/></span>
-<span><img src="https://i.postimg.cc/qqJtXfz8/3.png"/></span>
-<span><img src="https://i.postimg.cc/Hx4cyWsY/2.png"/></span>
-<span><img src="https://i.postimg.cc/x86X6szB/1.png"/></span>
-                                                                                            
+<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby&margin-w=28"/> </p>      
 <!---
 flgisimone/flgisimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
