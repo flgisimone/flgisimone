@@ -36,9 +36,9 @@ Sono in continua formazione e sempre alla ricerca di nuovi strumenti e tecniche 
 <span>![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)</span>
   
 <b><h3>Stats</h3></b>
-<span> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby"/> </span>
-<span> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby&line_height=40"/> </span>
-<p> <img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby"/> </p>      
+<span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flgisimone&theme=great-gatsby"/></span>
+<span><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=flgisimone&theme=great-gatsby&line_height=40"/></span>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=flgisimone&theme=great-gatsby"/></p>      
 <!---
 flgisimone/flgisimone is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
