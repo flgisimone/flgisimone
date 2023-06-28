@@ -2,12 +2,13 @@
 
 <h1 align="center">Ciao 👋, ti do il benvenuto sul mio profilo!</h1>
     
-<h3 align="center">Sono un 𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</h3>
+<h3 align="center">Mi chiamo Simone e sono un <b>𝗙𝗿𝗼𝗻𝘁-𝗲𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿</b></h3>
 <p align="center">
   <i>
-    Mi chiamo Simone.
-    <br>
-    Appassionato di tecnologia e sempre alla ricerca di nuove sfide che mi permettano di migliorare le mie abilità e competenze tecniche
+      Il mio approccio al lavoro è incentrato sull'idea di creare siti web che siano funzionali e facilmente navigabili, dando particolare attenzione alle tematiche di UX/UI.
+      <br>
+      <br>
+      Mi piace condividere idee e conoscenze con altri sviluppatori, designer e project manager, al fine di realizzare progetti di successo che rispondano alle esigenze dei clienti e degli utenti finali.
     <br>
   </i>
 </p>
