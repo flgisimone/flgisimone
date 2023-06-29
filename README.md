@@ -28,9 +28,10 @@
 
 ### Tools e Tecnologie
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-black?style=for-the-badge&logo=bitbucket)
 ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
 ![Salesforce](https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=salesforce)
-![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-black?style=for-the-badge&logo=webstorm)
