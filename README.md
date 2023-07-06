@@ -17,21 +17,22 @@
 ![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js)
 ![SASS](https://img.shields.io/badge/SASS-black?style=for-the-badge&logo=sass)
 
 ### Studiando...
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
+![Salesforce](https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=salesforce)
 
 ### Tools e Tecnologie
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
 ![Jira](https://img.shields.io/badge/Jira-black?style=for-the-badge&logo=jira)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-black?style=for-the-badge&logo=bitbucket)
 ![NPM](https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm)
-![Salesforce](https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=salesforce)
 ![Vite](https://img.shields.io/badge/Vite-black?style=for-the-badge&logo=vite)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=visual-studio-code)
 ![Webstorm](https://img.shields.io/badge/Webstorm-black?style=for-the-badge&logo=webstorm)
