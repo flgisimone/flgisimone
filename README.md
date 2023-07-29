@@ -27,6 +27,7 @@
 ![Redux](https://img.shields.io/badge/Redux-black?style=for-the-badge&logo=redux)
 ![MUI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=mui)
 ![Salesforce](https://img.shields.io/badge/Salesforce-black?style=for-the-badge&logo=salesforce)
+![Contenful](https://img.shields.io/badge/Contentful-black?style=for-the-badge&logo=contentful)
 
 ### Tools e Tecnologie
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
